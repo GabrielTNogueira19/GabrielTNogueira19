@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="foto_banner.jpg" alt="Banner Gabriel Nogueira" width="100%" style="border-radius: 18px; box-shadow: 0 0 25px rgba(249,115,22,0.6);" />
+  <img src="foto_banner.jpg" alt="Banner Gabriel Nogueira" width="100%" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=2500&pause=900&color=F97316&center=true&vCenter=true&multiline=true&lines=Gabriel+Nogueira;Desenvolvimento+de+Sistemas;Robótica+%26+Tecnologia" alt="Gabriel Nogueira" />
+</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Em+evolu%C3%A7%C3%A3o-111111?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Status" />
   <img src="https://img.shields.io/badge/SENAI-Limeira-F97316?style=for-the-badge&logo=codepen&logoColor=111111" alt="SENAI" />
   <img src="https://img.shields.io/badge/SESI-408%2F%20Limeira-111111?style=for-the-badge&logo=graduationcap&logoColor=F97316" alt="SESI" />
+  <img src="https://img.shields.io/badge/Laranja+Mec%C3%A2nica-Rob%C3%B3tica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Laranja Mecânica" />
 </div>
 
 <p align="center">
@@ -13,15 +18,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTNogueira19&layout=compact&theme=dark&bg_color=111111&title_color=f97316&text_color=f5f5f5&border_color=f97316" alt="Top Languages" height="185" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⌁%20SYSTEM%20ONLINE-READY-F97316?style=flat-square&logo=terminal&logoColor=111111" alt="System online" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/⌁%20SYSTEM%20READY-ONLINE-F97316?style=flat-square&logo=terminal&logoColor=111111" alt="System online" />
+</p>
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. Busco evoluir constantemente, criar projetos com propósito e transformar ideias em soluções práticas, modernas e eficientes.
+Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho forte interesse por tecnologia, inovação e solução de problemas por meio da programação. Meu foco principal está em Python, C++ e C#, áreas em que busco desenvolver lógica, criatividade e eficiência técnica. Estou sempre aprendendo, experimentando novas ideias e buscando transformar desafios em projetos reais e úteis.
 
-## 🧠 Stack principal
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -31,23 +36,31 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-## 🚀 Áreas de interesse
+## 🚀 Áreas de atuação
 
-- Desenvolvimento de sistemas e automação
+- Desenvolvimento de sistemas
 - Robótica e prototipagem
-- Programação em lógica e algoritmos
-- Inovação tecnológica e resolução de problemas
-- Aprendizado contínuo e projetos criativos
+- Programação lógica e algoritmos
+- Automação e soluções tecnológicas
+- Projetos criativos com foco em inovação
 
-## 🧩 Highlights
+## 🧩 Destaques
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Robótica-Laranja%20Mecânica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Robótica" />
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-Laranja%20Mec%C3%A2nica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Robótica" />
   <img src="https://img.shields.io/badge/Programação-Python%20%2B%20C%2B%2B%20%2B%20C%23-F97316?style=for-the-badge&logo=code&logoColor=111111" alt="Programação" />
-  <img src="https://img.shields.io/badge/Inovação-Tecnologia-111111?style=for-the-badge&logo=lightning&logoColor=F97316" alt="Inovação" />
+  <img src="https://img.shields.io/badge/Inova%C3%A7%C3%A3o-Tecnologia-111111?style=for-the-badge&logo=lightning&logoColor=F97316" alt="Inovação" />
 </div>
+
+## 📌 Formação e trajetória
+
+- Estudante de Desenvolvimento de Sistemas no SENAI/Limeira
+- Membro da equipe de robótica Laranja Mecânica
+- Aluno do SESI 408/Limeira
+- Interesse em aprender, criar e evoluir com tecnologia
 
 ## 🌐 Conecte-se comigo
 
