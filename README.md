@@ -1,268 +1,181 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                 GABRIEL NOGUEIRA // RAYTECH                 ║
-║                     PROFILE README                          ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<div align="center"> <a href="https://github.com/GabrielTNogueira19">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff6a00&height=220&section=header&text=GABRIEL%20NOGUEIRA&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=SYSTEMS%20%2F%2F%20ROBOTICS%20%2F%2F%20INNOVATION&descAlignY=60&descSize=16" width="100%" alt="Banner de Gabriel Nogueira" />
+</a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=FF6A00&center=true&vCenter=true&width=700&lines=DESENVOLVIMENTO+DE+SISTEMAS;ROB%C3%93TICA+%2F%2F+AUTOMA%C3%87%C3%83O;TECNOLOGIA+%2F%2F+INOVA%C3%87%C3%83O;CONSTRUINDO+O+FUTURO+UM+PROJETO+POR+VEZ" alt="Apresentação animada" />   
+ <img src="https://img.shields.io/badge/SYSTEM-ONLINE-111111?style=for-the-badge&labelColor=111111&color=FF6A00" alt="Sistema online" />
+<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-111111?style=for-the-badge&labelColor=111111&color=FF6A00" alt="Modo desenvolvimento" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-111111?style=for-the-badge&labelColor=111111&color=FF6A00" alt="Status aprendendo" />
 
-<div align="center">
 
-<img src="foto_banner.jpg" alt="Gabriel Nogueira — Raytech" width="100%" />
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2200&pause=700&color=FF6A00&center=true&vCenter=true&width=900&lines=GABRIEL+NOGUEIRA;SYSTEMS+DEVELOPMENT;ROBOTICS+%2F%2F+AUTOMATION;TECHNOLOGY+%2F%2F+INNOVATION;BUILDING+THE+FUTURE..." alt="Gabriel Nogueira" />
 
-<br>
 
-<img src="https://img.shields.io/badge/◉_SYSTEM-ONLINE-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=FF6A00" />
-<img src="https://img.shields.io/badge/◉_MODE-DEVELOPMENT-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=FF6A00" />
-<img src="https://img.shields.io/badge/◉_STATUS-LEARNING-0B0B0B?style=for-the-badge&labelColor=0B0B0B&color=FF6A00" />
+<img src="https://komarev.com/ghpvc/?username=GabrielTNogueira19&label=PROFILE%20ACCESS&color=FF6A00&style=for-the-badge" alt="Visualizações do perfil" /> </div>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=GabrielTNogueira19&label=PROFILE%20ACCESS&color=FF6A00&style=for-the-badge" />
 
-</div>
 
----
+01 // SOBRE_MIM
 
-<div align="center">
+Olá! Eu sou Gabriel Nogueira, estudante de Desenvolvimento de Sistemas no SENAI Limeira e aluno do SESI 408/Limeira.
 
-```text
+Também faço parte da equipe de robótica Laranja Mecânica, onde desenvolvo interesse prático por programação, automação, prototipagem e resolução de problemas.
+
+Meu objetivo é transformar aprendizado em projetos reais, experimentar novas tecnologias e evoluir continuamente como desenvolvedor.
+
+
+Foco atual: construir soluções funcionais, aprender com cada teste e transformar boas ideias em protótipos melhores.
+
+
+
+
+02 // PERFIL_DO_SISTEMA
+
+Plain Text
+
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                    R A Y T E C H   C O R E                  ║
 ╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   USER        :: Gabriel Nogueira                            ║
-║   ROLE        :: Systems Development Student                 ║
-║   SPECIALTY   :: Programming / Robotics / Technology         ║
-║   LOCATION    :: Brazil                                      ║
-║   STATUS      :: ████████████████████ ONLINE                 ║
-║                                                              ║
+║  USER        :: Gabriel Nogueira                             ║
+║  ROLE        :: Systems Development Student                  ║
+║  SPECIALTY   :: Programming / Robotics / Automation          ║
+║  LOCATION    :: Limeira, Brazil                              ║
+║  STATUS      :: ████████████████████ ONLINE                  ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
-</div>
 
-# `01 // ABOUT_ME`
 
-<div align="center">
+Competências em desenvolvimento
 
-<table>
-<tr>
-<td width="60%" valign="top">
+Área
+Tecnologias e práticas
+Programação
+Python, C++, C#, JavaScript
+Web
+HTML, CSS e fundamentos de JavaScript
+Robótica
+Sensores, automação, lógica de controle e prototipagem
+Ferramentas
+Git, GitHub e Visual Studio Code
+Método
+Aprender, experimentar, testar e melhorar
 
-### 👨‍💻 GABRIEL NOGUEIRA
 
-Sou estudante de **Desenvolvimento de Sistemas no SENAI/Limeira**, integrante da equipe de robótica **Laranja Mecânica** e aluno do **SESI 408/Limeira**.
 
-Tenho interesse em programação, automação, robótica, inovação e desenvolvimento de soluções.
 
-Meu foco atualmente está em transformar conhecimento em projetos, experimentar novas tecnologias e evoluir constantemente como desenvolvedor.
 
-</td>
 
-<td width="40%" valign="top">
 
-```text
-┌──────────────────────┐
-│     SYSTEM CORE      │
-├──────────────────────┤
-│                      │
-│  PYTHON       ████░  │
-│  C++          ████░  │
-│  C#           ███░░  │
-│  ROBOTICS     ████░  │
-│  WEB          ███░░  │
-│                      │
-│  CORE STATUS: OK     │
-└──────────────────────┘
-```
+03 // TECH_STACK
 
-</td>
-</tr>
-</table>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode&theme=dark&perline=9" alt="Tecnologias: Python, C++, C#, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 
-</div>
 
----
 
-# `02 // TECH_STACK`
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode&theme=dark&perline=9" />
 
-<br><br>
+<img src="https://img.shields.io/badge/PYTHON-FF6A00?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-FF6A00?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-FF6A00?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-FF6A00?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/GIT-FF6A00?style=flat-square&logo=git&logoColor=white" alt="Git" /> </div>
 
-<img src="https://img.shields.io/badge/PYTHON-FF6A00?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-FF6A00?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-FF6A00?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-FF6A00?style=flat-square&logo=javascript&logoColor=111111" />
-<img src="https://img.shields.io/badge/GIT-FF6A00?style=flat-square&logo=git&logoColor=white" />
 
-</div>
 
----
 
-# `03 // SYSTEM_MODULES`
+04 // MÓDULOS_ATIVOS
 
 <details>
-<summary><strong>🧠 DEVELOPMENT CORE</strong></summary>
+<summary><strong>DESENVOLVIMENTO DE SISTEMAS</strong></summary>
 
-<br>
+•
+Lógica de programação
 
-```text
-[ ACTIVE MODULES ]
+•
+Algoritmos
 
-> Programming Logic
-> Algorithms
-> Python
-> C++
-> C#
-> Web Development
-> Software Development
-```
+•
+Python, C++ e C#
+
+•
+Desenvolvimento web
+
+•
+Estruturação de soluções
+
+</details> <details>
+<summary><strong>ROBÓTICA E AUTOMAÇÃO</strong></summary>
+
+•
+Sensores e atuadores
+
+•
+Automação
+
+•
+Lógica de controle
+
+•
+Prototipagem
+
+•
+Testes e resolução de problemas
+
+</details> <details>
+<summary><strong>FLUXO DE APRENDIZADO</strong></summary>
+
+Plain Text
+
+
+INPUT → LEARN → EXPERIMENT → BUILD → TEST → IMPROVE → REPEAT
+
+
 
 </details>
 
-<details>
-<summary><strong>🤖 ROBOTICS CORE</strong></summary>
 
-<br>
 
-```text
-[ ROBOTICS SYSTEM ]
 
-> Sensors
-> Automation
-> Control Logic
-> Prototyping
-> Programming
-> Problem Solving
-```
-
-</details>
-
-<details>
-<summary><strong>⚙️ LEARNING ENGINE</strong></summary>
-
-<br>
-
-```text
-[ CURRENT PROCESS ]
-
-INPUT
-  ↓
-LEARN
-  ↓
-EXPERIMENT
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-REPEAT
-```
-
-</details>
-
----
-
-# `04 // RAYTECH_DASHBOARD`
+05 // RAYTECH_DASHBOARD
 
 <div align="center">
 
-<table>
+PROJECTS
+ROBOTICS
+LEARNING
+Estudos, projetos e protótipos
+Automação e experimentação
+Evolução contínua
 
-<tr>
 
-<td align="center" width="33%">
 
-### `PROJECTS`
 
-<img src="https://img.shields.io/badge/08+-ACTIVE-FF6A00?style=for-the-badge" />
+CODE
+FOCUS
+STATUS
+Prática e desenvolvimento
+100% em evolução
+Sistema operacional
 
-Projects, studies and prototypes.
 
-</td>
 
-<td align="center" width="33%">
-
-### `CODE`
-
-<img src="https://img.shields.io/badge/50+-SCRIPTS-111111?style=for-the-badge&logo=code&logoColor=FF6A00" />
-
-Experiments and programming practice.
-
-</td>
-
-<td align="center" width="33%">
-
-### `ROBOTICS`
-
-<img src="https://img.shields.io/badge/04-AREAS-FF6A00?style=for-the-badge&logo=robot&logoColor=111111" />
-
-Automation and experimentation.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### `LEARNING`
-
-<img src="https://img.shields.io/badge/20+-CONCEPTS-111111?style=for-the-badge&logo=brain&logoColor=FF6A00" />
-
-Constant development.
-
-</td>
-
-<td align="center">
-
-### `FOCUS`
-
-<img src="https://img.shields.io/badge/100%-EVOLUTION-FF6A00?style=for-the-badge" />
-
-Learning every day.
-
-</td>
-
-<td align="center">
-
-### `STATUS`
-
-<img src="https://img.shields.io/badge/ONLINE-READY-111111?style=for-the-badge&logo=rocket&logoColor=FF6A00" />
-
-System operational.
-
-</td>
-
-</tr>
-
-</table>
 
 </div>
 
----
 
-# `05 // ROBOTICS`
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/LARANJA_MECÂNICA-ROBOTICS-111111?style=for-the-badge&logo=robot&logoColor=FF6A00" />
+06 // ROBOTICS_CORE
 
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/LARANJA_MECÂNICA-ROBOTICS-111111?style=for-the-badge&logo=robot&logoColor=FF6A00" alt="Equipe Laranja Mecânica de robótica" />
 
-```text
+Plain Text
+
+
                     ┌──────────────┐
-                    │   IDEA 💡    │
+                    │     IDEA     │
                     └──────┬───────┘
                            │
                            ▼
@@ -277,167 +190,102 @@ System operational.
                           │
                           ▼
                   ┌────────────────┐
-                  │     TEST       │
+                  │      TEST      │
                   └───────┬────────┘
                           │
                           ▼
                   ┌────────────────┐
-                  │    EVOLVE      │
+                  │     EVOLVE     │
                   └────────────────┘
-```
 
----
 
-# `06 // GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielTNogueira19&show_icons=true&hide_border=false&bg_color=0B0B0B&title_color=FF6A00&icon_color=FF6A00&text_color=F5F5F5&border_color=FF6A00&include_all_commits=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTNogueira19&layout=compact&hide_border=false&bg_color=0B0B0B&title_color=FF6A00&text_color=F5F5F5&border_color=FF6A00" height="180" />
 
 </div>
 
-<br>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielTNogueira19&bg_color=0B0B0B&color=FF6A00&line=FF6A00&point=FFFFFF&area=true&hide_border=false&custom_title=RAYTECH%20-%20CONTRIBUTION%20ACTIVITY" width="95%" />
 
-</div>
+07 // FORMAÇÃO
 
----
+SENAI Limeira
 
-# `07 // EDUCATION`
+Desenvolvimento de Sistemas — programação, sistemas e tecnologia.
 
-<div align="center">
+SESI 408 Limeira
 
-<table>
+Ensino Médio — formação acadêmica e desenvolvimento contínuo.
 
-<tr>
-<td width="50%" valign="top">
 
-### 🎓 SENAI
 
-**Limeira**
 
-`DESENVOLVIMENTO DE SISTEMAS`
+08 // INTERESSES
 
-Programming • Systems • Technology
+SOFTWARE · ROBOTICS · AUTOMATION · PROGRAMMING · INNOVATION · TECHNOLOGY · PROBLEM SOLVING
 
-</td>
 
-<td width="50%" valign="top">
 
-### 🏫 SESI 408
 
-**Limeira**
+09 // MISSÃO_ATUAL
 
-`ENSINO MÉDIO`
+Plain Text
 
-Education • Development • Learning
 
-</td>
-</tr>
++ [BOOT] Inicializando ambiente de desenvolvimento...
++ [OK]   Desenvolvimento de sistemas
++ [OK]   Programação
++ [OK]   Robótica
++ [OK]   Tecnologia
++ [RUN]  Aprendendo novos conceitos
++ [RUN]  Construindo projetos
++ [RUN]  Testando ideias
++ [RUN]  Evoluindo habilidades
+! [NEXT] Alcançar o próximo nível
 
-</table>
 
-</div>
 
----
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=700&color=FF6A00&center=true&vCenter=true&width=650&lines=%3E+BUILDING...;%3E+LEARNING...;%3E+EXPERIMENTING...;%3E+EVOLVING...;%3E+SYSTEM+READY." alt="Status da missão" /> </div>
 
-# `08 // INTERESTS`
 
-<div align="center">
 
-`SOFTWARE`
 
-`ROBOTICS`
+10 // CONECTE-SE
 
-`AUTOMATION`
-
-`PROGRAMMING`
-
-`INNOVATION`
-
-`TECHNOLOGY`
-
-`PROBLEM SOLVING`
-
-</div>
-
----
-
-# `09 // CURRENT_MISSION`
-
-```diff
-+ [BOOT] Initializing development environment...
-+ [OK]   Systems Development
-+ [OK]   Programming
-+ [OK]   Robotics
-+ [OK]   Technology
-+ [RUN]  Learning new concepts
-+ [RUN]  Building projects
-+ [RUN]  Testing ideas
-+ [RUN]  Improving skills
-! [NEXT] Enter next level
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=700&color=FF6A00&center=true&vCenter=true&width=700&lines=%3E+BUILDING...;%3E+LEARNING...;%3E+EXPERIMENTING...;%3E+EVOLVING...;%3E+SYSTEM+READY." />
-
-</div>
-
----
-
-# `10 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/GabrielTNogueira19">
-<img src="https://img.shields.io/badge/GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FF6A00" />
+<div align="center"> <a href="https://github.com/GabrielTNogueira19" title="GitHub de Gabriel Nogueira">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF6A00" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-t-nogueira" title="LinkedIn de Gabriel Nogueira">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=FF6A00" alt="LinkedIn" />
+</a>
+<a href="mailto:gabrielnogueira.dev@gmail.com" title="Enviar e-mail para Gabriel Nogueira">
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FF6A00" alt="E-mail" />
 </a>
 
-<a href="https://www.linkedin.com/in/gabriel-t-nogueira">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=FF6A00" />
-</a>
 
-<a href="mailto:gabrielnogueira.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B0B0B?style=for-the-badge&logo=gmail&logoColor=FF6A00" />
-</a>
 
-</div>
 
----
 
-<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              > BUILD. LEARN. CREATE. REPEAT.                ║
-║                                                              ║
-║                    SYSTEM // ONLINE                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=600&lines=TECHNOLOGY+%2F%2F+CREATIVITY+%2F%2F+FUTURE;RAYTECH+CORE+%2F%2F+ONLINE;GABRIEL+NOGUEIRA+%2F%2F+2026" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/RAYTECH-CORE-FF6A00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-111111?style=for-the-badge&logo=statuspage&logoColor=FF6A00" />
+<sub>BUILD. LEARN. CREATE. REPEAT.</sub>
 
 </div>
 
-<!--
+
+
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:111111&height=120&section=footer" width="100%" alt="Rodapé visual" /> </div> <!--
 Widgets externos utilizados:
+- capsule-render
 - readme-typing-svg
-- GitHub Readme Stats
-- GitHub Activity Graph
-- Skill Icons
+- skillicons.dev
 - Shields.io
 - Komarev Visitor Counter
+
+Os widgets de estatísticas dinâmicas foram removidos para evitar imagens quebradas
+quando os serviços de analytics estiverem indisponíveis.
 -->
+
+[1] Capsule Render
+[2] Readme Typing SVG
+[3] Skill Icons
+[4] Shields.io
+[5] Komarev Visitor Counter
