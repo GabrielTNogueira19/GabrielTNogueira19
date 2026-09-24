@@ -368,11 +368,7 @@ Plain Text
 
 
 
-<div align="center">
-
-Plain Text
-
-
+<div align="center"> <pre align="center">
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║              > BUILD. LEARN. CREATE. REPEAT.                ║
@@ -380,10 +376,7 @@ Plain Text
 ║                    SYSTEM // ONLINE                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=600&lines=TECHNOLOGY+%2F%2F+CREATIVITY+%2F%2F+FUTURE;RAYTECH+CORE+%2F%2F+ONLINE;GABRIEL+NOGUEIRA+%2F%2F+2026" alt="Raytech Core" />
+</pre> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=600&lines=TECHNOLOGY+%2F%2F+CREATIVITY+%2F%2F+FUTURE;RAYTECH+CORE+%2F%2F+ONLINE;GABRIEL+NOGUEIRA+%2F%2F+2026" alt="Raytech Core" />
 
 
 
