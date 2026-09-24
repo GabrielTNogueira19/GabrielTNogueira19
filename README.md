@@ -30,27 +30,21 @@
 Plain Text
 
 
-╔══════════════════════════════════════════════════════════════╗
-║                    R A Y T E C H   C O R E                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   USER        :: Gabriel Nogueira                            ║
-║   ROLE        :: Systems Development Student                 ║
-║   SPECIALTY   :: Programming / Robotics / Technology         ║
-║   LOCATION    :: Brazil                                      ║
-║   STATUS      :: ████████████████████ ONLINE                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════╗
+║       R A Y T E C H  CORE    ║
+╠══════════════════════════════╣
+║ USER     :: Gabriel Nogueira ║
+║ ROLE     :: Systems Student  ║
+║ FOCUS    :: Code / Robotics  ║
+║ LOCATION :: Brazil           ║
+║ STATUS   :: ONLINE           ║
+╚══════════════════════════════╝
 
 
 
 </div>
 
 01 // ABOUT_ME
-
-<div align="center"> <table>
-<tr>
-<td width="60%" valign="top">
 
 👨‍💻 GABRIEL NOGUEIRA
 
@@ -60,29 +54,25 @@ Tenho interesse em programação, automação, robótica, inovação e desenvolv
 
 Meu foco atualmente está em transformar conhecimento em projetos, experimentar novas tecnologias e evoluir constantemente como desenvolvedor.
 
-</td> <td width="40%" valign="top">
+
+Foco atual: aprender, construir, testar e melhorar uma ideia por vez.
+
+SYSTEM CORE
 
 Plain Text
 
 
-┌──────────────────────┐
-│     SYSTEM CORE      │
-├──────────────────────┤
-│                      │
-│  PYTHON       ████░  │
-│  C++          ████░  │
-│  C#           ███░░  │
-│  ROBOTICS     ████░  │
-│  WEB          ███░░  │
-│                      │
-│  CORE STATUS: OK     │
-└──────────────────────┘
+┌────────────────────┐
+│ PYTHON       ████░ │
+│ C++          ████░ │
+│ C#           ███░░ │
+│ ROBOTICS     ████░ │
+│ WEB          ███░░ │
+├────────────────────┤
+│ CORE STATUS: OK    │
+└────────────────────┘
 
 
-
-</td>
-</tr>
-</table> </div>
 
 
 
