@@ -19,7 +19,10 @@
 
 ## ⚙️ Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. Busco desenvolver minhas habilidades, aprender continuamente e contribuir com projetos que unem criatividade, lógica e eficiência técnica.
+- Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira;
+- membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. 
+* Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. 
+* Busco desenvolver minhas habilidades, aprender continuamente e contribuir com projetos que unem criatividade, lógica e eficiência técnica.
 
 ## 🧠 Stack principal
 
