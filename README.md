@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&lines=Gabriel+Nogueira;Estudante+de+Desenvolvimento+de+Sistemas;Robótica+Laranja+Mecânica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=111111&background=F97316&center=true&vCenter=true&multiline=true&lines=Gabriel+Nogueira;Desenvolvimento+de+Sistemas;Robótica+e+Tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Em+evolu%C3%A7%C3%A3o-orange?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/SENAI-Limeira-orange?style=for-the-badge&logo=codepen&logoColor=black" alt="SENAI" />
-  <img src="https://img.shields.io/badge/SESI-408%2F%20Limeira-orange?style=for-the-badge&logo=graduationcap&logoColor=black" alt="SESI" />
+  <img src="https://img.shields.io/badge/Status-Em+evolu%C3%A7%C3%A3o-111111?style=for-the-badge&logo=rocket&logoColor=F97316" alt="Status" />
+  <img src="https://img.shields.io/badge/SENAI-Limeira-F97316?style=for-the-badge&logo=codepen&logoColor=111111" alt="SENAI" />
+  <img src="https://img.shields.io/badge/SESI-408%2F%20Limeira-111111?style=for-the-badge&logo=graduationcap&logoColor=F97316" alt="SESI" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielTNogueira19&show_icons=true&theme=dark&bg_color=111111&title_color=f97316&icon_color=f97316&text_color=f5f5f5&border_color=f97316" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTNogueira19&layout=compact&theme=dark&bg_color=111111&title_color=f97316&text_color=f5f5f5&border_color=f97316" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielTNogueira19&show_icons=true&theme=dark&bg_color=111111&title_color=f97316&icon_color=f97316&text_color=f5f5f5&border_color=f97316" alt="GitHub Stats" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTNogueira19&layout=compact&theme=dark&bg_color=111111&title_color=f97316&text_color=f5f5f5&border_color=f97316" alt="Top Languages" height="185" />
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⌁%20SYSTEM%20ONLINE-READY-F97316?style=flat-square&logo=terminal&logoColor=111111" alt="System online" />
+</div>
 
 ## ⚙️ Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho interesse em tecnologia, inovação e solução de problemas através da programação, com foco em Python, C++, e C#. Busco aprender cada vez mais, desenvolver minhas habilidades e contribuir em projetos que unem criatividade, lógica e tecnologia.
+Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. Busco desenvolver minhas habilidades, aprender continuamente e contribuir com projetos que unem criatividade, lógica e eficiência técnica.
 
 ## 🧠 Stack principal
 
@@ -35,7 +39,21 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe 
 - Robótica e prototipagem
 - Programação em lógica e algoritmos
 - Soluções tecnológicas com foco em inovação
-- Aprendizado contínuo em tecnologias emergentes
+- Aprendizado contínuo e projetos criativos
+
+## 🧩 Highlights
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Robótica-Laranja%20Mecânica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Robótica" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Programação-Python%20%2B%20C%2B%2B%20%2B%20C%23-F97316?style=for-the-badge&logo=code&logoColor=111111" alt="Programação" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Inovação-Tecnologia-111111?style=for-the-badge&logo=lightning&logoColor=F97316" alt="Inovação" />
+  </a>
+</div>
 
 ## 🌐 Conecte-se comigo
 
