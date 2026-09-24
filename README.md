@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=1000&color=111111&background=F97316&center=true&vCenter=true&multiline=true&lines=Gabriel+Nogueira;Desenvolvimento+de+Sistemas;Robótica+e+Tecnologia" alt="Typing SVG" />
+  <img src="foto_banner.jpg" alt="Banner Gabriel Nogueira" width="100%" style="border-radius: 18px; box-shadow: 0 0 25px rgba(249,115,22,0.6);" />
 </div>
 
 <div align="center">
@@ -17,12 +17,9 @@
   <img src="https://img.shields.io/badge/⌁%20SYSTEM%20ONLINE-READY-F97316?style=flat-square&logo=terminal&logoColor=111111" alt="System online" />
 </div>
 
-## ⚙️ Sobre mim
+## ⚡ Sobre mim
 
-- Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira;
-- membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. 
-* Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. 
-* Busco desenvolver minhas habilidades, aprender continuamente e contribuir com projetos que unem criatividade, lógica e eficiência técnica.
+Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe de robótica Laranja Mecânica e aluno do SESI 408/Limeira. Tenho interesse em tecnologia, inovação e solução de problemas por meio da programação, com foco em Python, C++ e C#. Busco evoluir constantemente, criar projetos com propósito e transformar ideias em soluções práticas, modernas e eficientes.
 
 ## 🧠 Stack principal
 
@@ -41,21 +38,15 @@
 - Desenvolvimento de sistemas e automação
 - Robótica e prototipagem
 - Programação em lógica e algoritmos
-- Soluções tecnológicas com foco em inovação
+- Inovação tecnológica e resolução de problemas
 - Aprendizado contínuo e projetos criativos
 
 ## 🧩 Highlights
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Robótica-Laranja%20Mecânica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Robótica" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Programação-Python%20%2B%20C%2B%2B%20%2B%20C%23-F97316?style=for-the-badge&logo=code&logoColor=111111" alt="Programação" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Inovação-Tecnologia-111111?style=for-the-badge&logo=lightning&logoColor=F97316" alt="Inovação" />
-  </a>
+  <img src="https://img.shields.io/badge/Robótica-Laranja%20Mecânica-111111?style=for-the-badge&logo=robot&logoColor=F97316" alt="Robótica" />
+  <img src="https://img.shields.io/badge/Programação-Python%20%2B%20C%2B%2B%20%2B%20C%23-F97316?style=for-the-badge&logo=code&logoColor=111111" alt="Programação" />
+  <img src="https://img.shields.io/badge/Inovação-Tecnologia-111111?style=for-the-badge&logo=lightning&logoColor=F97316" alt="Inovação" />
 </div>
 
 ## 🌐 Conecte-se comigo
