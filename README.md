@@ -113,11 +113,7 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI/Limeira, membro da equipe 
 
 ---
 
-## 💻 Código em destaque
-
----
-
-## 🚀 Áreas de interesse
+##  Áreas de interesse
 
 - Desenvolvimento de sistemas e automação
 - Robótica e prototipagem
